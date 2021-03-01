@@ -1,2 +1,2 @@
 Copy-Paste to
-C:\Users\{username}\AppData\LocalLow\IronGate\Valheim\worlds
+C:\Users\ {username} \AppData\LocalLow\IronGate\Valheim\worlds
